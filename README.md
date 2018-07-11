@@ -1,7 +1,6 @@
 # movie-trailer-website
 this project is web page that contains some movie trailers , every movie contains:
 * movie title
-* movie storyline
 * movie poster image
 * movie trailer video
 
@@ -21,9 +20,8 @@ in this file we firstly import media.py and fresh_tomatoes.py inside this file, 
 we set the information using movie class in media.py file, we must put the information with a specific arrangement according to the parameters in __init__
 function in media.py, the arrangment is:
 1. movie title
-2. movie storyline
-3. movie poster image URL
-4. movie youtube trailer URL
+2. movie poster image URL
+3. movie youtube trailer URL
 
 at the end of the file we create a list that contains all the variable names, then we make the list is the input in open_movies_page function that is in fresh_tomatoes.py
 file to relate the movies data with web page and run the trailers there.
