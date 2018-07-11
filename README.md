@@ -8,7 +8,7 @@ this web page was created by three python files:
 
 ### media.py
 this file contains the class is called 'movie', this class only contains __init__ function, this function takes several parameters that is required for
-movie trailer like: self, movie_title, movie_storyline, poster_image, trailer_youtube
+movie trailer like: self, movie_title, poster_image, trailer_youtube
 then in __init__ function we define instance variables using self parameter.
 
 ### fresh_tomatoes.py
