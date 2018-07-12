@@ -38,4 +38,3 @@ movies = [moana, stephen, Harry, jungle, trojan, beautifulmind]
 # display the movies list using open_movies_page function in the
 # fresh_tomatoes.py file
 fresh_tomatoes.open_movies_page(movies)
-
